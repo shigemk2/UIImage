@@ -7,7 +7,3 @@ Show an image from url
 [![Build Status](https://travis-ci.org/shigemk2/UIImage.png?branch=master)](https://travis-ci.org/shigemk2/UIImage)
 
 #### Special Thanks
-
-http://www.pixiv.net/member.php?id=5240
-[![Special Thanks](http://lohas.nicoseiga.jp/thumb/3075547i?)](http://lohas.nicoseiga.jp/thumb/3075547i?)
-
